@@ -88,120 +88,11 @@
 
 ---
 
-# 🚀 Featured Projects
-## ✈️ AeroPass – Airline Reservation System
-
-A desktop-based **Airline Reservation System** developed using **Java Swing** and **MySQL** that simplifies the complete flight booking process. The application allows users to securely log in, search available flights, select destinations, reserve seats, complete payments, and generate digital tickets. The project focuses on providing a smooth user experience while demonstrating object-oriented programming principles and database integration.
-
-### ✨ Key Features
-
-- 🔐 Secure User Authentication
-- ✈️ Flight Search & Booking
-- 📍 Destination Selection
-- 💳 Payment Gateway Module
-- 🎫 Digital Ticket Generation
-- ⭐ Customer Feedback System
-- 🗄️ MySQL Database Integration
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-| Java | Swing | JDBC | MySQL |
-|:----:|:-----:|:----:|:------:|
-| <img src="https://skillicons.dev/icons?i=java&theme=dark" width="55"/> | ☕ Swing | ⚡ JDBC | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="55"/> |
-
-</div>
-
-### 🔗 GitHub Repository
-
-> https://github.com/arunkumar645/Aeropass-Air-line-Reservation-System
-## 🌾 Grain Merchant System
-
-A modern **web-based agricultural marketplace** developed to connect farmers, merchants, and buyers through a single digital platform. The application enables users to publish products, browse crop listings, manage inventories, and securely interact using responsive dashboards. The project aims to simplify agricultural trading with an intuitive user interface and efficient workflow.
-
-### ✨ Key Features
-
-- 👨‍🌾 Farmer Dashboard
-- 🛒 Buyer Dashboard
-- 🔐 User Authentication
-- 📦 Product Management
-- 🔍 Search & Filtering
-- 📱 Fully Responsive Design
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-| React | JavaScript | Bootstrap | CSS |
-|:------:|:-----------:|:---------:|:---:|
-| <img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/> | <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/> | <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="55"/> | <img src="https://skillicons.dev/icons?i=css&theme=dark" width="55"/> |
-
-</div>
-
-### 🔗 GitHub Repository
-
-> https://github.com/arunkumar645/Grain-Merchant-System
-
-## 🤖 Platform AI
-
-A responsive **AI Tools Discovery Platform** that brings together hundreds of Artificial Intelligence tools under one website. Users can explore tools across various categories including image generation, video editing, coding assistants, writing, productivity, and business solutions. The platform provides an organized and searchable interface, making it easier to discover the right AI tool for different tasks.
-
-### ✨ Key Features
-
-- 🤖 AI Tool Categories
-- 🔍 Intelligent Search
-- 💎 Premium AI Tools
-- 🎨 Modern Responsive UI
-- 📂 Organized Dashboard
-- ⚡ Fast Navigation
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-| HTML | CSS | JavaScript | Bootstrap |
-|:----:|:---:|:----------:|:---------:|
-| <img src="https://skillicons.dev/icons?i=html&theme=dark" width="55"/> | <img src="https://skillicons.dev/icons?i=css&theme=dark" width="55"/> | <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/> | <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="55"/> |
-
-</div>
-
-### 🔗 GitHub Repository
-
-> https://github.com/arunkumar645/Platform-AI
-## 🎬 CineBook – Movie Ticket Booking System
-
-A desktop-based **Movie Ticket Booking System** developed using **Java Swing** and **MySQL**. The application allows users to browse movies, choose theatres, select preferred seats, complete payments, and generate booking confirmations. The project provides a simple and interactive ticket booking experience through a graphical user interface.
-
-### ✨ Key Features
-
-- 🎥 Movie Selection
-- 🪑 Interactive Seat Selection
-- 📅 Show Scheduling
-- 💳 Payment Module
-- 🎫 Ticket Generation
-- ⭐ User-Friendly Interface
-- 🗄️ MySQL Integration
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-| Java | Swing | JDBC | MySQL |
-|:----:|:-----:|:----:|:------:|
-| <img src="https://skillicons.dev/icons?i=java&theme=dark" width="55"/> | ☕ Swing | ⚡ JDBC | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="55"/> |
-
-</div>
-
-### 🔗 GitHub Repository
-
-> https://github.com/arunkumar645/CineBook
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=arunkumar645&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=nitishsampath&theme=tokyonight"/>
 
 </p>
 
@@ -211,7 +102,7 @@ A desktop-based **Movie Ticket Booking System** developed using **Java Swing** a
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunkumar645&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishsampath&theme=tokyo-night"/>
 
 </p>
 
@@ -220,15 +111,15 @@ A desktop-based **Movie Ticket Booking System** developed using **Java Swing** a
 
 <p align="center">
 
-<a href="mailto:arunkumarterala@gmail.com">
+<a href="mailto:nitishsampath27@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/arunkumar-terala-1012a12aa/" target="_blank">
+<a href="https://www.linkedin.com/in/s-nitish-756bb0358/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/arunkumar645" target="_blank">
+<a href="https://github.com/nitishsampath" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -239,10 +130,10 @@ A desktop-based **Movie Ticket Booking System** developed using **Java Swing** a
 ### 💬 I'm always happy to connect!
 
 📧 **Email**  
-**arunkumarterala@gmail.com**
+**nitishsampath27@gmail.com**
 
 💼 **LinkedIn**  
-**https://www.linkedin.com/in/arunkumar-terala-1012a12aa/**
+**https://www.linkedin.com/in/s-nitish-756bb0358/**
 
 ⭐ Feel free to reach out for discussions about
 
@@ -268,7 +159,7 @@ I'm always interested in collaborating on exciting projects, contributing to ope
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=arunkumar645&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=nitishsampath&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 </p>
 
